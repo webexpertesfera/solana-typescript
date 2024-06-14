@@ -1,6 +1,21 @@
-# React + TypeScript + Vite
+# React + TypeScript + Jest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project uses implementation of SolanaAccountManager class, which can fetch tokens from account, also it can compare two accounts.
+
+As of now it is using mock data and it is not realtime, or using any api
+
+To setup this project:-
+
+1. Install dependencies - "npm install"
+2. Start the frontend server - "npm run dev"
+
+For running test cases:-
+
+1. Run test cases - "npm run test"
+
+To use it your app
+
+
 
 Currently, two official plugins are available:
 
